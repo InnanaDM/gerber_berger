@@ -1,0 +1,22 @@
+{
+  "name": "gerber_berger",
+  "version": "1.0.0",
+  "description": "baby burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnanaDM/gerber_berger.git"
+  },
+  "author": "Innana DM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnanaDM/gerber_berger/issues"
+  },
+  "homepage": "https://github.com/InnanaDM/gerber_berger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
